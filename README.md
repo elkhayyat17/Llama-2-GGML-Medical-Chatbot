@@ -26,7 +26,7 @@ The **Llama-2-7B-Chat-GGML-Medical-Chatbot** is a repository for a medical chatb
 2. Change the current working directory to the location where you want the cloned directory.
 3. Type `git clone`, and then paste the URL you copied earlier.
 ```bash
-   git clone https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot.git
+   git clone https://github.com/elkhayyat17/Llama-2-GGML-Medical-Chatbot.git
 ```
 Press Enter to create your local clone.
 4. Install the pip packages in requirements.txt
