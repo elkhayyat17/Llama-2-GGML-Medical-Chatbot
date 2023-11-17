@@ -40,6 +40,6 @@ Press Enter to create your local clone.
 ## 📖 ChatBot Conversession
 
 
-![ChatBot Conversession img-2](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/1fede7dd-05e1-49de-bbab-f289cbdb9cd9)
+![ChatBot Conversession img-2](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/1fede7dd-05e1-49de-bbab-f289cbdb9cd9/)
 
-![ChatBot Conversession img-3](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/d10d949f-37e5-4ec4-868d-2e62d8ad69dc)
+![ChatBot Conversession img-3](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/assets/109382325/d10d949f-37e5-4ec4-868d-2e62d8ad69dc/)
